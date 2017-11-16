@@ -1,0 +1,201 @@
+{ "_id" : "Afghanistan", "value" : 24.122237486212015 }
+{ "_id" : "Aland Islands", "value" : 28.16261648965891 }
+{ "_id" : "Albania", "value" : 24.724674251153047 }
+{ "_id" : "Algeria", "value" : 28.594463853802747 }
+{ "_id" : "American Samoa", "value" : 22.398336918076584 }
+{ "_id" : "Andorra", "value" : 28.172283654749506 }
+{ "_id" : "Angola", "value" : 23.58823368836684 }
+{ "_id" : "Argentina", "value" : 24.00620729563848 }
+{ "_id" : "Armenia", "value" : 25.574379819862877 }
+{ "_id" : "Australia", "value" : 25.17315446458141 }
+{ "_id" : "Austria", "value" : 26.07762433110621 }
+{ "_id" : "Azerbaijan", "value" : 25.901295314618782 }
+{ "_id" : "Bahamas", "value" : 24.337970551749404 }
+{ "_id" : "Bangladesh", "value" : 28.022952543101383 }
+{ "_id" : "Barbados", "value" : 21.343242644513325 }
+{ "_id" : "Belarus", "value" : 25.32126726005836 }
+{ "_id" : "Belgium", "value" : 24.97217907301558 }
+{ "_id" : "Belize", "value" : 23.192948017012107 }
+{ "_id" : "Benin", "value" : 24.41197551519794 }
+{ "_id" : "Bhutan", "value" : 25.385790158312222 }
+{ "_id" : "Bolivia", "value" : 25.469162006779527 }
+{ "_id" : "Bosnia and Herzegovina", "value" : 26.148747918413193 }
+{ "_id" : "Botswana", "value" : 25.864294254001848 }
+{ "_id" : "Brazil", "value" : 26.692526123539746 }
+{ "_id" : "Brunei", "value" : 25.02697259105827 }
+{ "_id" : "Bulgaria", "value" : 23.455574919419472 }
+{ "_id" : "Burkina Faso", "value" : 25.47832481340537 }
+{ "_id" : "Burundi", "value" : 26.361847244620257 }
+{ "_id" : "Cambodia", "value" : 26.229952036595794 }
+{ "_id" : "Cameroon", "value" : 23.804970820611512 }
+{ "_id" : "Canada", "value" : 25.58320574556385 }
+{ "_id" : "Cape Verde", "value" : 24.60752413590291 }
+{ "_id" : "Central African Republic", "value" : 24.161004784618967 }
+{ "_id" : "Chad", "value" : 25.905763020970006 }
+{ "_id" : "Chile", "value" : 26.43789764723916 }
+{ "_id" : "China", "value" : 25.475728021282595 }
+{ "_id" : "Colombia", "value" : 24.565716697786296 }
+{ "_id" : "Comoros", "value" : 29.489988481317233 }
+{ "_id" : "Costa Rica", "value" : 24.716096843014743 }
+{ "_id" : "Croatia", "value" : 25.688505256217045 }
+{ "_id" : "Cuba", "value" : 25.76412019849032 }
+{ "_id" : "Cyprus", "value" : 24.694017116141172 }
+{ "_id" : "Czech Republic", "value" : 24.471256390576528 }
+{ "_id" : "Democratic Republic of the Congo", "value" : 27.376703229262294 }
+{ "_id" : "Denmark", "value" : 22.7988656595229 }
+{ "_id" : "Dominica", "value" : 26.42147612552151 }
+{ "_id" : "Dominican Republic", "value" : 23.851941154121292 }
+{ "_id" : "East Timor", "value" : 26.261104489777896 }
+{ "_id" : "Ecuador", "value" : 25.19912750077752 }
+{ "_id" : "Egypt", "value" : 25.01534420744746 }
+{ "_id" : "El Salvador", "value" : 25.66661507762936 }
+{ "_id" : "Equatorial Guinea", "value" : 24.784158605052227 }
+{ "_id" : "Eritrea", "value" : 26.18666676758779 }
+{ "_id" : "Estonia", "value" : 26.915272011540395 }
+{ "_id" : "Ethiopia", "value" : 24.62580089824818 }
+{ "_id" : "Fiji", "value" : 21.202149695398855 }
+{ "_id" : "Finland", "value" : 25.462355673588117 }
+{ "_id" : "France", "value" : 24.009443309287803 }
+{ "_id" : "French Guiana", "value" : 25.591509763617097 }
+{ "_id" : "French Polynesia", "value" : 25.35140886054147 }
+{ "_id" : "Gabon", "value" : 25.657536728265534 }
+{ "_id" : "Gambia", "value" : 23.073754123754668 }
+{ "_id" : "Georgia", "value" : 24.43980252322847 }
+{ "_id" : "Germany", "value" : 25.745362838623755 }
+{ "_id" : "Ghana", "value" : 27.288011155673743 }
+{ "_id" : "Greece", "value" : 25.7377071420831 }
+{ "_id" : "Greenland", "value" : 25.87231726224435 }
+{ "_id" : "Guadeloupe", "value" : 22.066287052482927 }
+{ "_id" : "Guam", "value" : 22.840813652521604 }
+{ "_id" : "Guatemala", "value" : 25.397654113123863 }
+{ "_id" : "Guinea", "value" : 26.792969644731055 }
+{ "_id" : "Guinea-Bissau", "value" : 24.427204123390514 }
+{ "_id" : "Guyana", "value" : 26.155629974879574 }
+{ "_id" : "Haiti", "value" : 24.17220129672344 }
+{ "_id" : "Honduras", "value" : 25.447178463582745 }
+{ "_id" : "Hong Kong", "value" : 27.28283221221082 }
+{ "_id" : "Hungary", "value" : 25.956340599586962 }
+{ "_id" : "Iceland", "value" : 24.184507862652886 }
+{ "_id" : "Indonesia", "value" : 26.86262247706916 }
+{ "_id" : "Iran", "value" : 24.09148053235547 }
+{ "_id" : "Iraq", "value" : 25.01642402669667 }
+{ "_id" : "Ireland", "value" : 25.014973136783237 }
+{ "_id" : "Israel", "value" : 25.985819324849228 }
+{ "_id" : "Italy", "value" : 22.67713535778923 }
+{ "_id" : "Ivory Coast", "value" : 25.77679029300099 }
+{ "_id" : "Jamaica", "value" : 24.346166322116215 }
+{ "_id" : "Japan", "value" : 24.754111476791692 }
+{ "_id" : "Jordan", "value" : 26.64017495109036 }
+{ "_id" : "Kazakhstan", "value" : 25.4713334274451 }
+{ "_id" : "Kenya", "value" : 28.887511863589307 }
+{ "_id" : "Kiribati", "value" : 23.104683336146245 }
+{ "_id" : "Kosovo", "value" : 23.66604503146762 }
+{ "_id" : "Kuwait", "value" : 24.058525710056955 }
+{ "_id" : "Kyrgyzstan", "value" : 25.21972796635938 }
+{ "_id" : "Laos", "value" : 26.200677062579175 }
+{ "_id" : "Latvia", "value" : 26.59924171865819 }
+{ "_id" : "Lebanon", "value" : 27.36986558795514 }
+{ "_id" : "Lesotho", "value" : 25.35989698056186 }
+{ "_id" : "Liberia", "value" : 25.490318349064964 }
+{ "_id" : "Libya", "value" : 28.623503684333873 }
+{ "_id" : "Lithuania", "value" : 22.473691855752094 }
+{ "_id" : "Luxembourg", "value" : 26.60362945883447 }
+{ "_id" : "Macao", "value" : 23.98847768982694 }
+{ "_id" : "Macedonia", "value" : 25.833882219492136 }
+{ "_id" : "Madagascar", "value" : 24.73594082362841 }
+{ "_id" : "Malawi", "value" : 27.299142700133018 }
+{ "_id" : "Malaysia", "value" : 26.263658387106137 }
+{ "_id" : "Maldives", "value" : 25.109030750127605 }
+{ "_id" : "Mali", "value" : 23.93715679508439 }
+{ "_id" : "Malta", "value" : 25.566684839680175 }
+{ "_id" : "Marshall Islands", "value" : 24.4362224388107 }
+{ "_id" : "Martinique", "value" : 24.025383631333913 }
+{ "_id" : "Mauritania", "value" : 21.56355023247727 }
+{ "_id" : "Mauritius", "value" : 22.84579484451354 }
+{ "_id" : "Mexico", "value" : 25.84644258189295 }
+{ "_id" : "Micronesia", "value" : 23.454384883798497 }
+{ "_id" : "Moldova", "value" : 23.908143993404423 }
+{ "_id" : "Monaco", "value" : 28.9279758282314 }
+{ "_id" : "Mongolia", "value" : 23.116432653589317 }
+{ "_id" : "Montenegro", "value" : 23.122811559146605 }
+{ "_id" : "Morocco", "value" : 24.58357095000894 }
+{ "_id" : "Mozambique", "value" : 25.079106153289768 }
+{ "_id" : "Myanmar", "value" : 26.137437220889574 }
+{ "_id" : "Namibia", "value" : 26.736439032858964 }
+{ "_id" : "Nauru", "value" : 22.91236113053845 }
+{ "_id" : "Nepal", "value" : 24.19497117647374 }
+{ "_id" : "Netherlands", "value" : 25.735924850768704 }
+{ "_id" : "New Caledonia", "value" : 25.50588178834554 }
+{ "_id" : "New Zealand", "value" : 25.42720216890392 }
+{ "_id" : "Nicaragua", "value" : 23.727461708736044 }
+{ "_id" : "Niger", "value" : 26.266702290796463 }
+{ "_id" : "Nigeria", "value" : 23.714700049374684 }
+{ "_id" : "North Korea", "value" : 28.80657957179359 }
+{ "_id" : "Northern Mariana Islands", "value" : 25.912320610983855 }
+{ "_id" : "Norway", "value" : 27.417700083054726 }
+{ "_id" : "Oman", "value" : 26.03717139232247 }
+{ "_id" : "Pakistan", "value" : 24.74101076095824 }
+{ "_id" : "Palau", "value" : 29.619032693868498 }
+{ "_id" : "Palestinian Territory", "value" : 25.478927698259835 }
+{ "_id" : "Panama", "value" : 23.85084767984356 }
+{ "_id" : "Papua New Guinea", "value" : 23.52576992860079 }
+{ "_id" : "Paraguay", "value" : 24.110419458027405 }
+{ "_id" : "Peru", "value" : 26.777598603575655 }
+{ "_id" : "Philippines", "value" : 24.633627751563825 }
+{ "_id" : "Poland", "value" : 23.79895522390174 }
+{ "_id" : "Portugal", "value" : 24.788399326217093 }
+{ "_id" : "Puerto Rico", "value" : 24.602964060625116 }
+{ "_id" : "Qatar", "value" : 25.750482706734886 }
+{ "_id" : "Republic of the Congo", "value" : 25.559867696319753 }
+{ "_id" : "Reunion", "value" : 24.70948290610687 }
+{ "_id" : "Russia", "value" : 24.84692868843392 }
+{ "_id" : "Rwanda", "value" : 25.17909580720896 }
+{ "_id" : "Saint Kitts and Nevis", "value" : 27.888260127774004 }
+{ "_id" : "Saint Lucia", "value" : 23.007900513203566 }
+{ "_id" : "Samoa", "value" : 20.54488200453268 }
+{ "_id" : "Saudi Arabia", "value" : 25.488068717083074 }
+{ "_id" : "Senegal", "value" : 22.758150067325808 }
+{ "_id" : "Serbia", "value" : 23.42202687708061 }
+{ "_id" : "Seychelles", "value" : 25.710551755136727 }
+{ "_id" : "Sierra Leone", "value" : 24.184621580183617 }
+{ "_id" : "Sint Maarten", "value" : 23.16078482034497 }
+{ "_id" : "Slovakia", "value" : 21.338818810983465 }
+{ "_id" : "Slovenia", "value" : 25.810346641417254 }
+{ "_id" : "Somalia", "value" : 29.953705951906365 }
+{ "_id" : "South Africa", "value" : 23.775650416093807 }
+{ "_id" : "South Korea", "value" : 22.53806782553771 }
+{ "_id" : "South Sudan", "value" : 25.958795187276632 }
+{ "_id" : "Spain", "value" : 26.298513602002267 }
+{ "_id" : "Sri Lanka", "value" : 24.070791898297436 }
+{ "_id" : "Sudan", "value" : 24.82084901317481 }
+{ "_id" : "Suriname", "value" : 30.38931494743512 }
+{ "_id" : "Swaziland", "value" : 20.902625563889615 }
+{ "_id" : "Sweden", "value" : 25.34962608423958 }
+{ "_id" : "Switzerland", "value" : 25.70946937867775 }
+{ "_id" : "Syria", "value" : 25.62276783812902 }
+{ "_id" : "Taiwan", "value" : 26.57232923116132 }
+{ "_id" : "Tajikistan", "value" : 23.93243478744943 }
+{ "_id" : "Tanzania", "value" : 26.309864671658715 }
+{ "_id" : "Thailand", "value" : 25.42889512534118 }
+{ "_id" : "Togo", "value" : 22.51098327722662 }
+{ "_id" : "Tonga", "value" : 23.8293086776095 }
+{ "_id" : "Trinidad and Tobago", "value" : 27.43808046643437 }
+{ "_id" : "Tunisia", "value" : 24.81070771438951 }
+{ "_id" : "Turkey", "value" : 23.0483978541792 }
+{ "_id" : "Turkmenistan", "value" : 26.912561377431224 }
+{ "_id" : "Tuvalu", "value" : 22.60418435695907 }
+{ "_id" : "Uganda", "value" : 23.11424861974656 }
+{ "_id" : "Ukraine", "value" : 24.10094239616049 }
+{ "_id" : "United Arab Emirates", "value" : 26.572025231735637 }
+{ "_id" : "United Kingdom", "value" : 25.037326280659443 }
+{ "_id" : "United States", "value" : 25.756406670370154 }
+{ "_id" : "Uruguay", "value" : 26.12296706801264 }
+{ "_id" : "Uzbekistan", "value" : 26.879772477497756 }
+{ "_id" : "Vanuatu", "value" : 24.697548912916897 }
+{ "_id" : "Venezuela", "value" : 25.392085317343614 }
+{ "_id" : "Vietnam", "value" : 23.907437153005958 }
+{ "_id" : "Wallis and Futuna", "value" : 26.38253925838278 }
+{ "_id" : "Western Sahara", "value" : 22.75109226188259 }
+{ "_id" : "Yemen", "value" : 26.368184699787978 }
+{ "_id" : "Zambia", "value" : 26.100631474764057 }
+{ "_id" : "Zimbabwe", "value" : 24.438514935562683 }
